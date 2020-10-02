@@ -49,6 +49,7 @@ namespace Assignment_01.Utilities
         {
             UserInterface.Print("Enter message's title: ");
             var title = UserInterface.ReadLine();
+
             UserInterface.Print("Enter message's content: ");
             var content = UserInterface.ReadLine();
 
