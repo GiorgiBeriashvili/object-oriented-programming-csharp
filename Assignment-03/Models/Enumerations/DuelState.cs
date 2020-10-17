@@ -1,4 +1,4 @@
-namespace Assignment_03.Models
+namespace Assignment_03.Models.Enumerations
 {
     internal enum DuelState
     {

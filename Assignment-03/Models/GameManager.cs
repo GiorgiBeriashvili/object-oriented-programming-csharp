@@ -1,4 +1,5 @@
 using System;
+using Assignment_03.Models.Enumerations;
 
 namespace Assignment_03.Models
 {
