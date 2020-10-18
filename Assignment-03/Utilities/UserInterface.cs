@@ -12,7 +12,7 @@ namespace Assignment_03.Utilities
 
             for (index = 0; index < Program.Weapons.Count; index++)
             {
-                PrintLine($"{index + 1} - {Program.Weapons[index].Name} (damage -> {Program.Weapons[index].Damage}, damage modifier range -> {Program.Weapons[index].DamageModifierRange.minimum}-{Program.Weapons[index].DamageModifierRange.maximum})");
+                PrintLine($"{index + 1} - {Program.Weapons[index].Name} (damage -> {Program.Weapons[index].Damage}, damage modifier range -> {Program.Weapons[index].DamageModifierRange.minimum}-{Program.Weapons[index].DamageModifierRange.maximum - 1})");
             }
         }
 
