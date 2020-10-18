@@ -6,8 +6,8 @@ Sample usage scenario after running the `dotnet run` command:
 Enter the player's name: Samurai
 
 Choose the weapon for the player:
-1 - Katana (damage -> 8, damage modifier range -> 0-5)
-2 - Desert Eagle (damage -> 6, damage modifier range -> 1-4)
+1 - Katana (damage -> 8, damage modifier range -> 0-4)
+2 - Desert Eagle (damage -> 6, damage modifier range -> 1-3)
 
 Enter the player's weapon (1-2): 1
 
